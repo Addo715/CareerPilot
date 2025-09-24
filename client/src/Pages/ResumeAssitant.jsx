@@ -5,7 +5,7 @@ import ResumeNavbar from '../Components/ResumeNavbar'
 const ResumeAssistant = () => {
   return (
     <div>
-        <ResumeNavbar/>
+        {/* <ResumeNavbar/> */}
     <div className='text-center max-w-4xl mx-auto px-4 py-10 '>
         <div className='space-y-4'>
             <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold leading-tight'>
