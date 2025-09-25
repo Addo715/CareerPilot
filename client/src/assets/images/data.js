@@ -9,13 +9,13 @@ export const ResumeInfo=[
         image: resume
     },
     {
-        company:'Microsoft',
-        title: 'Frontend Developer',
+        company:'Google',
+        title: 'Fullstack Developer',
         image: resume1
     },
     {
-        company:'Microsoft',
-        title: 'Frontend Developer',
+        company:'NetFlix',
+        title: 'AI/ML ENgineering',
         image: resume2
     }
 ]

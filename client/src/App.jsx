@@ -8,6 +8,7 @@ import NewNavbar from './Components/NewNavbar'
 import Contact from './Pages/Contact'
 import UserDashboard from './Pages/UserDashboard'
 import ResumeAssitant from './Pages/ResumeAssitant'
+import Upload from './Pages/Upload'
 
 const App = () => {
   const location = useLocation()
@@ -26,6 +27,7 @@ const App = () => {
         <Route path='/contactus' element={<Contact/>}/>
         <Route path='/dashboard' element={<UserDashboard/>}/>
         <Route path='/resume-assistant' element={<ResumeAssitant/>}/>
+        <Route path='/upload' element={<Upload/>}/>
       </Routes>
 
       {/* <Footer/> */}
